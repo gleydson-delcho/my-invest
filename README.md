@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="JobsCalc" src=".github/my-invest.png" width="220px" />
+  <img alt="JobsCalc" title="JobsCalc" src=".github/my-invest.png" width="100px" height="50px" />
 </h1>
 
 <p align="center">
